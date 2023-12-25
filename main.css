@@ -67,6 +67,10 @@ a:hover + .line{
         display: flex !important;
     
     }
+
+    .icons{
+        font-size: 20px;
+    }
 }
 
 .navbar-nav{
