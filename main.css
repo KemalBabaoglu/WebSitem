@@ -68,9 +68,7 @@ a:hover + .line{
     
     }
 
-    .icons{
-        font-size: 20px;
-    }
+
 }
 
 .navbar-nav{
@@ -190,6 +188,7 @@ nav ul li:hover{
 
 .icons{
     color: red !important;
+    font-size: 20px;
 
 }
 
