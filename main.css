@@ -188,7 +188,7 @@ nav ul li:hover{
 
 .icons{
     color: red !important;
-    font-size: 20px;
+    font-size: 20px !important;
 
 }
 
@@ -223,15 +223,25 @@ nav ul li:hover{
         width: 95% !important;
     }
 
-    .icons a{
-        font-size: 20px !important;
-    }
 
 }
 
 .whatsappDestek:hover{
     scale: 1.2;
 }
+
+
+
+
+/* !İLETİŞİM */
+@media screen and (max-width: 760px){
+    iframe{
+        height: 280px ;
+    }
+
+
+}
+
 
 
 
